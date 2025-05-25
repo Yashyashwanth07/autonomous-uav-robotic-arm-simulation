@@ -40,12 +40,3 @@ This project presents a 3D simulation of an **autonomous quadrotor UAV equipped 
 
 ---
 
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/UAV-Robotic-Arm-Simulation.git
-cd UAV-Robotic-Arm-Simulation
-
-# Install dependencies
-pip install vpython numpy matplotlib
